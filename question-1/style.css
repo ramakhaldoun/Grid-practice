@@ -1,0 +1,7 @@
+  .container{
+    display:grid;
+    gap:20px;
+    grid-template-columns: repeat(3,1fr);
+    font-size: 17px;
+    padding:10px;
+  }
